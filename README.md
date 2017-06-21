@@ -15,5 +15,6 @@ amplification
 ![Example_png](amplification.png)
 
 attenuation
+
 ![Example_png](attenuation.png)
 
