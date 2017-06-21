@@ -10,8 +10,9 @@ some of it work well
 
 but some dose not perform so well
 
-wamplification
-![Example_png](wamplification.png)
+amplification
+
+![Example_png](amplification.png)
 
 attenuation
 ![Example_png](attenuation.png)
